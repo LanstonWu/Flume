@@ -1,0 +1,1 @@
+[Flume二次开发<格式化数据写入hbase column family>](https://github.com/LanstonWu/blog/blob/master/java/201802/Flume%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91%3C%E6%A0%BC%E5%BC%8F%E5%8C%96%E6%95%B0%E6%8D%AE%E5%86%99%E5%85%A5hbase%20column%20family%3E.md)
